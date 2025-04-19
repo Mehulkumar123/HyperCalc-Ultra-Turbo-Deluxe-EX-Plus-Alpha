@@ -1,115 +1,89 @@
-# 🤓🔬 Scientific Calculator Pro – Enhanced™  
-> *Now with 300% more buttons and 500% less sanity.*
+# 🤖🤓🔬 HyperCalc-Ultra-Turbo-Deluxe-EX-Plus-Alpha ™  
+> *Because doing math the normal way was way too boring.*
+> *Now with more graphs per second than your GPU can handle.*
 
 ![This is fine](https://media.giphy.com/media/Gf3AUz3eBNbTW/giphy.gif)
 
----
-
-## 🙄 So... What Even Is This?
-
-Welcome to **THE** calculator.  
-You know, the one that saw other calculators and said:  
-> “Hold my math.”
-
-You thought you just needed something to add numbers?  
-**NO.** You needed **matrices, graphs, macros, unit conversions, finance**, and an existential crisis wrapped in 2500+ lines of Python spaghetti.
 
 ---
 
-## 💥 Features (a.k.a. “Why Is This a Thing?”)
-
-### 🧮 *Standard Math Mode*
-- Add? ✅  
-- Subtract? ✅  
-- Multiply? ✅  
-- Cry because parentheses are hard? Also ✅  
-- Insert `π` because it looks cool? You bet.
-
-**Bonus**: It evaluates math expressions SAFELY using `asteval`, because `eval()` is evil and you should feel bad for even thinking about it.
+## 🛠️ What Is This Sorcery?
+It's a calculator. But on steroids.  
+Like... *a lot* of steroids. It can do **basic math**, **graphing**, **financial analysis**, **solve ODEs**, **do your taxes (not really)**, and even **convert joules to tacos (okay, still not that one)**.
 
 ---
 
-### 🔮 Scientific Mode
-- Trig, hyperbolic, exponential — it’s got all the `sin`s.  
-- Solves equations, integrals, derivatives. You know, *math stuff*.  
-- **Step-by-step solving** so you can pretend to learn.  
-- LaTeX export, so your assignment looks like you actually tried.
+## 🧠 Features That Will Make You Question Reality:
 
-> **Warning**: Does not guarantee understanding. Just vibes.
+- 🧮 **Standard Calculator** — For adding 2+2 and getting 5.  
+- 📚 **Scientific Mode** — Solve equations and feel smarter than your calculator.  
+- 📊 **Statistics** — Proof that 99.9% of stats are made up.  
+- 📈 **Graphing** — Because nothing says “I’m a data wizard” like colorful squiggles.  
+- 🧾 **Finance** — Find out exactly how broke you are in 4 clicks.  
+- 🤖 **Programming Scripts** — Write scripts! Record macros! Crash your calculator!  
+- 🧬 **Vectors and Matrices** — Trauma from Linear Algebra class? We gotchu.  
+- 🔄 **Unit Converter** — Convert Celsius to Fahrenheit and back until you forget both.  
+- 🧨 **Undo/Redo** — Because math regrets are real.
 
----
-
-### 📉 Graphing Mode
-- Plot up to 4 functions because *one is never enough*.  
-- 3D plots so you can finally show off in the group chat.  
-- Parametric, Polar, Implicit. Honestly, we don’t even know what implicit means anymore.  
-- Plot derivatives and integrals too. Because yes.
-
-![Plot All The Things](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+![rocket math](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 ---
 
-### 🧱 Matrix Mode – For Your Inner Linear Algebra God
-- Add, Multiply, Invert... just like your social plans.  
-- Eigenvalues and eigenvectors, because that’s the only thing you remember from college.  
-- LU/QR decomposition. Sounds cool. Still don’t know what it does.
+## ⚙️ Requirements (a.k.a. the price of greatness)
 
----
+- Python 3.x  
+- `ttkbootstrap` – for that ✨aesthetic✨
+- `numpy`, `sympy`, `scipy`, `pandas`, `seaborn`, `matplotlib` – all the nerdy stuff
+- `asteval` – so we can evaluate expressions *without* destroying the planet (hopefully)
 
-### 🧲 Vector Mode – Because Vectors Deserve Love Too
-- Dot and cross product because multiplication is a lifestyle.  
-- Magnitude, so you can flex how big your vectors are.  
-- Input them as Python lists. Pretend you're coding NASA’s next mission.
-
----
-
-### 💸 Financial Mode
-- Calculate compound interest and realize how broke you’ll still be.  
-- NPV & IRR — useful when you're pretending to understand business.  
-- Loan amortization, aka “See how long you’ll suffer.”
-
-![Money Vanishing](https://media.giphy.com/media/l0MYKDrJ0R3vXkmi0/giphy.gif)
-
----
-
-### 📊 Stats Mode
-- Mean, median, mode. Feel statistical.  
-- Linear regression? You’re a data scientist now, baby.  
-- Boxplots and histograms to make it all look legit.
-
----
-
-### 🔁 Unit Converter
-- Convert meters to kilometers. Revolutionary.  
-- Celsius to Fahrenheit? We love temperature drama.  
-- Joules to electronvolts? Didn’t ask. Added it anyway.
-
----
-
-### ⚙️ Macro Mode (aka: Script & Pray)
-- Write macros to automate your suffering.  
-- Save/load scripts like a pro.  
-- Absolutely zero syntax forgiveness. You break it, you fix it.
-
----
-
-## 💅 The Fancy Stack™
-
-| Tech | Why It's Here |
-|------|---------------|
-| `tkinter` | Because we enjoy suffering |
-| `ttkbootstrap` | Dark mode or bust |
-| `sympy` | Symbolic math to fake genius status |
-| `numpy`, `scipy` | Big brain numbers |
-| `matplotlib` | For graphs that make you go “ooh” |
-| `asteval` | Because `eval()` is cancelled |
-
----
-
-## 💻 How To Use This Chaos
-
-### Step 1:
-Install stuff you didn’t know you needed:
 ```bash
-pip install -r requirements.txt
+pip install ttkbootstrap numpy sympy scipy pandas seaborn matplotlib asteval
 ```
+---
+
+## 🚀 How To Launch This Beast
+```bash
+python app.py
+```
+- Then... behold the chaos. 🎇
+- Bonus points if you scream "It's alive!" like a mad scientist. 🧟
+
+---
+## 🧱 Features Still Under Construction 🚧
+- ⚒️ 4D Plotting with smell support
+- ⚒️ Auto-slap user when they divide by zero
+- ⚒️ Neural-net powered sarcasm generator
+- ⚒️ Button that fixes your life
+
+![insane-math](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+---
+## 🫠 Known Issues (We Call Them Features)
+- Sometimes buttons get tired and stop responding 💤
+- The plot might plot revenge instead of graphs
+- Undo/Redo can time travel, but sometimes forgets what year it is
+- It may or may not develop sentience. 👀
+
+---
+
+## 📸 Screenshots You Didn't Ask For
+
+![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGozenF3MDI5eXpieGd5cmpzc3VpNXdtMXRkYWE2YjFjMW50cmFkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/McmEgVHMekWQ/giphy.gif)
+
+---
+
+## 🧻 Legalese Stuff (aka “Don’t Sue Us”)
+- This calculator comes with no warranty, no promises, and a ton of sass.
+- We take no responsibility if you become a math god or break space-time.
+
+---
+
+## 🤔 Questions? Comments? Existential Crises?
+- File an issue. Or scream into the void. Either works.
+-  Or contact us at ``` you-math-it-you-fix-it@calculator.fail ```
+
+---
+
+## 🚨 Final Thoughts:
+- If your friends are using a normal calculator...
+- Just know you're better than them now. 😎
