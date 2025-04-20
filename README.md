@@ -1,89 +1,96 @@
-# 🤖🤓🔬 HyperCalc-Ultra-Turbo-Deluxe-EX-Plus-Alpha ™  
-> *Because doing math the normal way was way too boring.*
-> *Now with more graphs per second than your GPU can handle.*
+# 📉 Welcome to **MathTastrophe™**: The Calculator From Your Nightmares
 
-![This is fine](https://media.giphy.com/media/Gf3AUz3eBNbTW/giphy.gif)
-
+> Because math shouldn't make sense, and neither should the tools you use.
 
 ---
 
-## 🛠️ What Is This Sorcery?
-It's a calculator. But on steroids.  
-Like... *a lot* of steroids. It can do **basic math**, **graphing**, **financial analysis**, **solve ODEs**, **do your taxes (not really)**, and even **convert joules to tacos (okay, still not that one)**.
+## 📛 Name of This Glorious Mistake:
+**MathTastrophe™ — Version 0.what.ever**
+
+Because naming it “Desmos” would’ve been illegal, and naming it “Useful” would’ve been a lie.
 
 ---
 
-## 🧠 Features That Will Make You Question Reality:
+## 📚 What Is This?
 
-- 🧮 **Standard Calculator** — For adding 2+2 and getting 5.  
-- 📚 **Scientific Mode** — Solve equations and feel smarter than your calculator.  
-- 📊 **Statistics** — Proof that 99.9% of stats are made up.  
-- 📈 **Graphing** — Because nothing says “I’m a data wizard” like colorful squiggles.  
-- 🧾 **Finance** — Find out exactly how broke you are in 4 clicks.  
-- 🤖 **Programming Scripts** — Write scripts! Record macros! Crash your calculator!  
-- 🧬 **Vectors and Matrices** — Trauma from Linear Algebra class? We gotchu.  
-- 🔄 **Unit Converter** — Convert Celsius to Fahrenheit and back until you forget both.  
-- 🧨 **Undo/Redo** — Because math regrets are real.
+A feature-rich (read: bloated), over-designed (read: confusing), and questionably-functioning calculator app with a built-in graphing tool that tries really hard to look smart.
 
-![rocket math](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+It does **way too much**, but you still won’t understand what’s happening.
 
 ---
 
-## ⚙️ Requirements (a.k.a. the price of greatness)
+## 🛠️ Features (That Probably Don't Work Right)
 
-- Python 3.x  
-- `ttkbootstrap` – for that ✨aesthetic✨
-- `numpy`, `sympy`, `scipy`, `pandas`, `seaborn`, `matplotlib` – all the nerdy stuff
-- `asteval` – so we can evaluate expressions *without* destroying the planet (hopefully)
+### ✅ Math Stuff You Can Pretend to Understand
+- Symbolic math (derivatives, integrals, solving equations)
+- Supports complex numbers (like your relationships)
+- Piecewise functions (because life is conditional)
+- Parametric, polar, and even 3D (which it doesn’t really do well)
+
+### ✅ Graphing
+- Click to plot. Click again out of frustration.
+- Polar plots (no polar bears were harmed)
+- Slope fields (whatever those are)
+- Complex graphs (why???)
+- Animations (for when still graphs aren't disappointing enough)
+
+### ✅ UI Goodness
+- Dark mode (to match your soul)
+- Sliders (to look cool while not knowing what you're adjusting)
+- Grid styles, zooming, dragging, plot styling — all things you’ll mess up
+
+---
+
+## 🧾 About This Program
+
+**Made by someone who definitely overdid it.**  
+What started as a calculator turned into a Graphing Frankenstein™ with more features than friends.
+
+- Codebase is held together with duct tape, `sympy`, and shame.
+- Uses `tkinter`, because we like to suffer.
+- `matplotlib` for plotting. And rage.
+- `pint`, `numpy`, and `scipy` for math it doesn't always get right.
+
+---
+
+## 📦 Requirements
 
 ```bash
-pip install ttkbootstrap numpy sympy scipy pandas seaborn matplotlib asteval
+pip install matplotlib sympy numpy ttkbootstrap pandas seaborn scipy
 ```
----
 
-## 🚀 How To Launch This Beast
-```bash
-python app.py
-```
-- Then... behold the chaos. 🎇
-- Bonus points if you scream "It's alive!" like a mad scientist. 🧟
-
----
-## 🧱 Features Still Under Construction 🚧
-- ⚒️ 4D Plotting with smell support
-- ⚒️ Auto-slap user when they divide by zero
-- ⚒️ Neural-net powered sarcasm generator
-- ⚒️ Button that fixes your life
-
-![insane-math](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
----
-## 🫠 Known Issues (We Call Them Features)
-- Sometimes buttons get tired and stop responding 💤
-- The plot might plot revenge instead of graphs
-- Undo/Redo can time travel, but sometimes forgets what year it is
-- It may or may not develop sentience. 👀
+Or just give up and draw graphs by hand.
 
 ---
 
-## 📸 Screenshots You Didn't Ask For
+## 🧙 Who Should Use This?
 
-![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGozenF3MDI5eXpieGd5cmpzc3VpNXdtMXRkYWE2YjFjMW50cmFkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/McmEgVHMekWQ/giphy.gif)
-
----
-
-## 🧻 Legalese Stuff (aka “Don’t Sue Us”)
-- This calculator comes with no warranty, no promises, and a ton of sass.
-- We take no responsibility if you become a math god or break space-time.
+- Students who want to look like they’re trying
+- Developers who want to lose hope
+- Professors who gave up caring
+- Anyone brave enough to type `dy/dx=-x/y` and *hope for a slope field*
 
 ---
 
-## 🤔 Questions? Comments? Existential Crises?
-- File an issue. Or scream into the void. Either works.
--  Or contact us at ``` you-math-it-you-fix-it@calculator.fail ```
+## 🐞 Bugs?
+
+Yes. Lots. Some even plot.
 
 ---
 
-## 🚨 Final Thoughts:
-- If your friends are using a normal calculator...
-- Just know you're better than them now. 😎
+## 🧠 Pro Tip
+
+If something breaks, it’s not a bug — it’s a feature.  
+If nothing plots, it's a learning opportunity. For you.
+
+---
+
+## 👀 Final Thoughts
+
+You didn't ask for this.  
+You probably don’t need this.  
+But here you are, reading this doc like it’ll help.
+
+![why](https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif)
+
+Enjoy. Or don’t. We tried. Barely.
